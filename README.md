@@ -1,10 +1,11 @@
-### 👋 Hi there, I'm Koushik
+# 👋 Hi there, I'm Koushik
 
-## I'm a Student!!
+## I'm a Student 🤓
 
+- 🎓 I'm currently pursuing BCA from Netaji Subhash Engineering College
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Front End Web Development
-- 🥅 2021 Goals: Contribute more to my projects
+- 🥅 2021 Goals: Contribute more to my projects and stay active in Github
 
 ### Connect with me:
 
@@ -25,9 +26,9 @@
 <br />
 <br />
 
-<img align="left" alt="KoushikDutta99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&count_private=true&show_icons=true&hide_rank=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&hide_rank=true&hide=prs,issues,contribs" />
 
-<img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&layout=compact">
+<img align="left" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
 
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
