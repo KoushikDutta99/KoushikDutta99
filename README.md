@@ -28,9 +28,11 @@
 <br />
 <br />
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&hide_rank=true&hide=prs,issues,contribs" />
+---
 
-<img align="right" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&hide_rank=true&hide=prs,issues,contribs" />
+
+<img align="center" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
 
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
