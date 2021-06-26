@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Koushik Dutta | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iamkoushikdutta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Koushik Dutta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iamkoushik_dutta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -30,10 +31,11 @@
 
 ---
 
-<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&hide_rank=true&hide=prs,issues,contribs" />
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&&hide=prs,issues,contribs" />
 
 <img align="center" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
 
+[facebook]: https://www.facebook.com/iamkoushikdutta/
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
 [instagram]: https://www.instagram.com/iamkoushik_dutta/
