@@ -27,6 +27,8 @@
 
 <img align="left" alt="KoushikDutta99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&count_private=true&show_icons=true&hide_rank=true" />
 
+<img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&layout=compact">
+
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
 [instagram]: https://www.instagram.com/iamkoushik_dutta/
