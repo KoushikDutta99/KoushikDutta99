@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning and exploring in Front End Web Development
 - 🥅 2021 Goals: Contribute more to my projects and stay active in Github
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Profile%20views&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="Koushik Dutta | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
