@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" height="270" width="400" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true&&hide=prs,issues,contribs" />
+<img align="left" height="270" width="400" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true" />
 
 <img align="left" height="270" width="400" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
 
