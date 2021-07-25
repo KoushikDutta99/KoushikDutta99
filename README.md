@@ -33,9 +33,18 @@
 
 ---
 
-<img align="left" height="270" width="400" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&include_all_commits&count_private=true" />
+<p align="center">
+    <a herf="https://github.com/KoushikDutta99/github-readme-strak-stats">
+      <img title="My Github Streak Check" alt="Koushik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikDutta99&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
+    </a>
+</p>
+   
+## 📊 My Github Stats
 
-<img align="left" height="270" width="400" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&show_icon=true&hide_border=true&theme=dark&layout=compact">
+  <br/>
+  <a herf="https://github.com/KoushikDutta99/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" /></a>
+  <a herf="https://github.com/KoushikDutta99/github-readme-stats"><img alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&langs_count=8&count_private=true&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&layout=compact"></a>
+<br/>
 
 [facebook]: https://www.facebook.com/iamkoushikdutta/
 [twitter]: https://twitter.com/iamkoushikdutta
