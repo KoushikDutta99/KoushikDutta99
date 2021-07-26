@@ -11,10 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Koushik Dutta | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="iamkoushikdutta | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Koushik Dutta | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamkoushik_dutta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Koushik Dutta | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
+[<img align="left" alt="iamkoushikdutta | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Koushik Dutta | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iamkoushik_dutta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iamkoushik_dutta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
 
 <br />
 
@@ -51,3 +52,4 @@
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
 [instagram]: https://www.instagram.com/iamkoushik_dutta/
+[discord]: https://discord.gg/TXwAS2KrMa
