@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Koushik
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm [Koushik Dutta]
 
 ## I'm a Student 🤓
 
@@ -52,6 +52,7 @@
 
 <br/>
 
+[Koushik Dutta]: koushikdutta99.wixsite.com/koushikdutta 
 [facebook]: https://www.facebook.com/iamkoushikdutta/
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
