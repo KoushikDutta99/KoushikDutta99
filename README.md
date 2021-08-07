@@ -52,7 +52,7 @@
 
 <br/>
 
-[Koushik Dutta]: koushikdutta99.wixsite.com/koushikdutta 
+[Koushik Dutta]: https://koushikdutta99.wixsite.com/koushikdutta
 [facebook]: https://www.facebook.com/iamkoushikdutta/
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
