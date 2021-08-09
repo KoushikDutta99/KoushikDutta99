@@ -47,7 +47,7 @@
 <br/>
 <p align="center">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
-    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <!-- <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
 </p>
 
 <br/>
