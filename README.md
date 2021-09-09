@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/iamkoushikdutta
 [linkedin]: https://www.linkedin.com/in/koushikdutta/
 [instagram]: https://www.instagram.com/iamkoushik_dutta/
-[discord]: https://discord.gg/TXwAS2KrMa
+[discord]: https://discord.gg/aybTVjW4Hn
