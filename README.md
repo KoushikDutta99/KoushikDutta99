@@ -41,14 +41,14 @@
     
 ## 🔥 My Github Streak
 <p align="center">
-    <img title="My Github Streak Check" alt="Koushik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikDutta99&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
+    <img title="My Github Streak Check" alt="Koushik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikDutta1999&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
 </p>
    
  ## 📊 My Github Stats
 <br/>
 <p align="center">
-    <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta99&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
-    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+    <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoushikDutta1999&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
+    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDutta1999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
 </p>
 
 <br/>
