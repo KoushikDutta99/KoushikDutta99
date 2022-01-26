@@ -5,7 +5,7 @@
 - 🎓 I'm currently pursuing BCA from Netaji Subhash Engineering College
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Front End Web Development
-- 🥅 2021 Goals: Contribute more to my projects and stay active in Github
+- 🥅 2022 Goals: Contribute more to my projects and stay active in Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
 
