@@ -17,7 +17,7 @@
 <a href="https://twitter.com/iamkoushikdutta"><img src="https://img.shields.io/badge/iamkoushikdutta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/iamkoushik_dutta/"><img src="https://img.shields.io/badge/iamkoushik_dutta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.gg/aybTVjW4Hn"><img src="https://img.shields.io/badge/Koushik Dutta-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://koushikdutta99.wixsite.com/koushikdutta"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
+<a href="https://koushikdutta1999.wixsite.com/koushikdutta1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
 <br />
 
 ### My Portfolio:
