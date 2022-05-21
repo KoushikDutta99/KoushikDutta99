@@ -15,13 +15,15 @@
 
 <a href="mailto:iamkoushik1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linktr.ee/KoushikDutta99"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<!---<a href="https://www.linkedin.com/in/koushikdutta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!---
+<a href="https://www.linkedin.com/in/koushikdutta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/iamkoushikdutta/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://twitter.com/iamkoushikdutta"><img src="https://img.shields.io/badge/iamkoushikdutta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/iamkoushik_dutta/"><img src="https://img.shields.io/badge/iamkoushik_dutta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.gg/aybTVjW4Hn"><img src="https://img.shields.io/badge/Koushik Dutta-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://koushikdutta1999.wixsite.com/koushikdutta1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>-->
+<a href="https://koushikdutta1999.wixsite.com/koushikdutta1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
 <br />
+-->
 
 ### My Portfolio:
 
