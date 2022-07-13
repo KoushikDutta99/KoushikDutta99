@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Frontend Web Development
-- 🎓 Completed BCA from Netaji Subhash Engineering College on July 2022
+- 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
 - ⚡️  Expertise primarily revolves around JavaScript, React, MERN, Web Development.
 - 🥅 2022 Goals: Contribute more to my projects and stay active in Github
 
