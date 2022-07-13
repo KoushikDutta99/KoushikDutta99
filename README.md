@@ -4,9 +4,10 @@
 
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 I'm currently pursuing BCA from Netaji Subhash Engineering College
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Frontend Web Development
+- 🎓 Completed BCA from Netaji Subhash Engineering College on July 2022
+- ⚡️  Expertise primarily revolves around JavaScript, React, MERN, Web Development.
 - 🥅 2022 Goals: Contribute more to my projects and stay active in Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
@@ -46,7 +47,18 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<br />
+
+#### **Frameworks, Platforms and Libraries**:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<br />
+
+#### Database:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
 
 #### Operating System:
@@ -54,6 +66,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+<br />
+
+#### Others: 
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br />
 
 ## 🔥 My Github Streak
@@ -71,4 +88,3 @@
 [![KoushikDutta1999's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KoushikDutta1999&theme=xcode)](https://git.io/KoushikDutta1999)
 
 <br/>
-
