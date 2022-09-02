@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm Koushik Dutta
 
-## I'm a Student 🤓
+## I'm a Learner 🤓
 
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
