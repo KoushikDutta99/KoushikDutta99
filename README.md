@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning and exploring in Frontend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
 - ⚡️  Expertise primarily revolves around JavaScript, React, MERN, Web Development.
-- 🤞 Trying my best to live a Happy Life 
+- 🤞 Trying my best to live a Happy Life
 - 🥅 2022 Goals: Contribute more to my projects and stay active in Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
