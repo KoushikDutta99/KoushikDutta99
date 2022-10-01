@@ -1,6 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm Koushik Dutta
-
-## I'm a Learner 🤓
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey!+I+am+a+Learner+🤓)
 
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
