@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
 
-### Connect with me:
+### Connect with me: <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="23px" />
 
 <a href="mailto:iamkoushik1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linktr.ee/KoushikDutta1999"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
