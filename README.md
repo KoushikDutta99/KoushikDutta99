@@ -1,8 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm Koushik Dutta
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey!+I+am+a+Learner+🤓)
 
-<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Frontend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
@@ -16,19 +14,10 @@
 
 <a href="mailto:iamkoushik1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linktr.ee/iamkoushik1999"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<!---
-<a href="https://www.linkedin.com/in/koushikdutta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/iamkoushik1999/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/iamkoushik1999"><img src="https://img.shields.io/badge/iamkoushikdutta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/iamkoushik1999/"><img src="https://img.shields.io/badge/iamkoushik_dutta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://discord.gg/aybTVjW4Hn"><img src="https://img.shields.io/badge/Koushik Dutta-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://iamkoushik1999.wixsite.com/iamkoushik1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
-<br />
--->
 
 ### My Portfolio:
 
-<a href="https://koushikdutta1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="https://iamkoushik1999.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 <br />
 
 #### Programming Languages:
@@ -88,3 +77,15 @@
 [![iamkoushik1999's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamkoushik1999&theme=xcode)](https://git.io/iamkoushik1999)
 
 <br/>
+
+<!--- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
+
+<!---
+<a href="https://www.linkedin.com/in/koushikdutta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/iamkoushik1999/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://twitter.com/iamkoushik1999"><img src="https://img.shields.io/badge/iamkoushikdutta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/iamkoushik1999/"><img src="https://img.shields.io/badge/iamkoushik_dutta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discord.gg/aybTVjW4Hn"><img src="https://img.shields.io/badge/Koushik Dutta-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://iamkoushik1999.wixsite.com/iamkoushik1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
+<br />
+-->
