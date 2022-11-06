@@ -13,6 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamkoushik1999@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/iamkoushik1999)
+<br />
 
 ### 🖥️ My Portfolio:
 
@@ -77,6 +78,7 @@
 
 ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+<br />
 
 ## 🔥 My Github Streak
 
@@ -85,7 +87,7 @@
 </p>
    
  ## 📊 My Github Stats
-<br/>
+
 <p align="center">
     <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkoushik1999&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
     <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
@@ -96,13 +98,3 @@
 <br/>
 <!---# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm Koushik Dutta-->
 <!--- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
-
-<!---
-<a href="https://www.linkedin.com/in/koushikdutta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/iamkoushik1999/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/iamkoushik1999"><img src="https://img.shields.io/badge/iamkoushikdutta-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/iamkoushik1999/"><img src="https://img.shields.io/badge/iamkoushik_dutta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://discord.gg/aybTVjW4Hn"><img src="https://img.shields.io/badge/Koushik Dutta-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://iamkoushik1999.wixsite.com/iamkoushik1999"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
-<br />
--->
