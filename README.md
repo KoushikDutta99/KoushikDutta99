@@ -1,11 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There+I'm+Koushik+Dutta+🤓)
 
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning and exploring in Frontend Web Development
+- 🌱 I’m currently learning and exploring in Backend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
-- ⚡️ Expertise primarily revolves around JavaScript, React, MERN, Web Development.
-- 🤞 Trying my best to live an Happy Life
-- 🥅 2022 Goals: Contribute more to my projects and stay active in Github
+- 🏢 Node Js Developer at Hih7 Webtech Pvt Ltd Since January 2023
+- ⚡️ Expertise primarily revolves around JavaScript, Node Js, MERN, Web Development.
+- 🤞 Trying my best to live a Happy Life
+- 🥅 2023 Goals: Contribute more to my projects, Learn more and stay active in Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
 
