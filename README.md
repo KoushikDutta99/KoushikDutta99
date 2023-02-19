@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Backend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
-- 🏢 Node Js Developer at Hih7 Webtech Pvt Ltd Since January 2023
+- 🏢 Junior Node Js Developer at Hih7 Webtech Pvt Ltd Since January 2023
 - ⚡️ Expertise primarily revolves around JavaScript, Node Js, MERN, Web Development.
 - 🤞 Trying my best to live a Happy Life
 - 🥅 2023 Goals: Contribute more to my projects, Learn more and stay active in Github
@@ -56,6 +56,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <br />
 
 ### 🎛️ Operating System:
