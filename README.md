@@ -96,8 +96,6 @@
     <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
 </p>
 
-[![iamkoushik1999's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamkoushik1999&&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://git.io/iamkoushik1999)
+[![Koushik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamkoushik1999&theme=github-compact)](https://github.com/iamkoushik1999/github-readme-activity-graph)
 
 <br/>
-<!---# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there, I'm Koushik Dutta-->
-<!--- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
