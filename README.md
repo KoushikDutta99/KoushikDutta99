@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There+I'm+Koushik+Dutta+🤓)
 
+<img src = "image/Github Banner.png" alt = "Github Banner">
+
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Backend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
