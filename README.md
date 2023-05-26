@@ -93,6 +93,6 @@
     <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
 </p>
 
-[![Koushik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamkoushik1999&theme=github-compact)](https://github.com/iamkoushik1999/github-readme-activity-graph)
+[![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamkoushik1999&bg_color=060A0C0&color=ffffff&line=0ecd3e&point=80ffac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
