@@ -89,10 +89,10 @@
  ## 📊 My Github Stats
 
 <p align="center">
-    <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkoushik1999&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
-    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=iamkoushik1999&theme=dark&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&layout=compact&theme=dark&langs_count=8&card_width=320&hide=c,shell,scss,php" />
 </p>
 
-[![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamkoushik1999&bg_color=060A0C0&color=ffffff&line=0ecd3e&point=80ffac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamkoushik1999&theme=react-dark)
 
 <br/>
