@@ -5,10 +5,10 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Backend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Computer Application from Netaji Subhash Engineering College, Kolkata on July 2022
-- 🏢 Junior Node Js Developer at Hih7 Webtech Pvt Ltd Since January 2023
-- ⚡️ Expertise primarily revolves around JavaScript, Node Js, MERN, Web Development.
+- 🏢 Node Js Developer at Hih7 Webtech Pvt Ltd Since January 2023
+- ⚡️ Expertise primarily revolves around JavaScript, Node Js, MERN, Git Github and Web Development.
 - 🤞 Trying my best to live a Happy Life
-- 🥅 2023 Goals: Contribute more to my projects, Learn more and stay active in Github
+- 🥅 2024 Goals: Contribute more to my projects, Learn new languange and stay active on Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KoushikDutta99&label=Viewrs&color=0e75b6&style=flat" alt="KoushikDutta99" /> </p>
 
